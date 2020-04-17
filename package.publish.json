@@ -1,0 +1,10 @@
+{
+    "name": "museum",
+    "version": "1.0.0",
+    "description": "museum application package",
+    "license": "SEE LICENSE IN LICENSE",
+    "author": "matheus jordan",
+    "scripts": {
+    }
+  }
+  
